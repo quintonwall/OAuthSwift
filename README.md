@@ -88,6 +88,7 @@ oauthswift.authorizeWithCallbackURL( NSURL(string: "oauth-swift://oauth-callback
 ### OAuth pages
 
 * [Twitter](https://dev.twitter.com/docs/auth/oauth)  
+* [Salesforce](https://developer.salesforce.com/page/Digging_Deeper_into_OAuth_2.0_on_Force.com)
 * [Flickr](https://www.flickr.com/services/api/auth.oauth.html)  
 * [Github](https://developer.github.com/v3/oauth)  
 * [Instagram](http://instagram.com/developer/authentication)  
